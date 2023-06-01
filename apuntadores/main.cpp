@@ -9,7 +9,7 @@ void metodo(int &ref){
 
 void metodo2(int *p){
     *p = 1000;
-}
+}   
 
 int main(){
     int x = 5;
